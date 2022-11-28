@@ -67,6 +67,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    color: #003b46;
 }
 
 .navegacion {
@@ -96,12 +97,14 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    color: #003b46;
 }
 p {
     font-family: 'IBM Plex Sans', sans-serif;
     font-family: 'Josefin Sans', sans-serif;
     font-family: 'Open Sans', sans-serif;
     padding: 10px;
+    color: #c4dfe6;
 }
 div {
     padding: 10px;
